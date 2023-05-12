@@ -12,7 +12,7 @@ const DisplayLoadedImage = () => {
       </div>
 
           <div className={Style.imgHolder}>
-              <h3>imag</h3>
+              <h3>image</h3>
         {context.image ? <img src={context.image} alt='loadedImage' /> : null}
       </div>
     </div>
