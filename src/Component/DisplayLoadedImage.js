@@ -19,4 +19,6 @@ const DisplayLoadedImage = () => {
   );
 };
 
+
+
 export default DisplayLoadedImage;
